@@ -6,9 +6,9 @@ subtitle: Berkeley, CA
 
 profile:
   align: right
-  image: prof_pic.jpg
-  #address: >
-  #  <p>555 your office number</p>
+  image: prof_pic.JPG
+  address: >
+    <p>555 I enjoy hard-sphere scattering both in and out of the lab w</p>
  #   <p>123 your address street</p>
   #  <p>Your City, State 12345</p>
 
