@@ -9,5 +9,6 @@ cv_pdf: Mastandrea_CV_ALL.pdf
 
 Last updated June 2022hihiuhi
 
-<embed src="https://rmastand.github.io/assets/pdf/Mastandrea_CV_ALL.pdf" type="application/pdf"/>
-hihuhi
+<iframe src="/assets/pdf/Mastandrea_CV_ALL.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+gggggggg
