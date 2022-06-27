@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at [UC Berkeley](https://physics.berkeley.edu/). My research lies in the intersection of fundmantal physics and machine learning. I am currently interested in applying various types of neural networks to model-agnostic anomaly detection on particle collision data collected from the LHC.
+I am a PhD student at [UC Berkeley](https://physics.berkeley.edu/). My research lies in the intersection of fundamental physics and machine learning. I am currently interested in applying various types of neural networks to model-agnostic anomaly detection on particle collision data collected from the LHC.
 
 Before studying at Berkeley, I completed graduate coursework in Physics at the [University of Cambridge](https://www.phy.cam.ac.uk/), preceded by a Bachelor's degree (in guess what) at [MIT](https://physics.mit.edu/).
 
