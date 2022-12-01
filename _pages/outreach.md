@@ -16,7 +16,7 @@ The module that I have been working on is called [Introduction to Data Processin
 
 I am working on a series of interactive jupyter / google colab notebooks to teach interesting phenomena in physics at the upper high school / lower undergraduate level. My goal is that each notebook takes no longer than an hour (ideally half of that) to go through.
 
-- [The Hot Chocolate Effect](https://colab.research.google.com/drive/1LyZ6br5LUvOVFqZIbYjQr7v5XIx98w5a?usp=sharing)
+- [The Hot Chocolate Effect](https://colab.research.google.com/drive/1LyZ6br5LUvOVFqZIbYjQr7v5XIx98w5a?usp=sharing). This was my entry to the [3Blue1Brown Summer of Math 2022 Competition](https://www.3blue1brown.com/blog/some2), and it was selected as one of the top 100 entries!
 
 
 
