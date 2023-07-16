@@ -19,6 +19,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD student at [UC Berkeley](https://physics.berkeley.edu/). My research lies in the intersection of fundamental physics and machine learning. I am currently interested in applying various types of neural networks to model-agnostic anomaly detection on particle collision data collected from the LHC.
 
-Before studying at Berkeley, I completed graduate coursework in Physics at the [University of Cambridge](https://www.phy.cam.ac.uk/), preceded by a Bachelor's degree (in guess what) at [MIT](https://physics.mit.edu/).
+Before studying at Berkeley, I completed graduate coursework in Physics at the [University of Cambridge](https://www.phy.cam.ac.uk/) funded by a [Marshall Scholarship](https://www.marshallscholarship.org/scholars/scholar-profiles), preceded by a Bachelor's degree (in guess what) at [MIT](https://physics.mit.edu/).
 
 Outside of my research, I am an [APS DSECOP](https://dsecop.org/) Fellow, where I develop coursework that integrates data science and machine learning with early-stage undergraduate physics curriculum. You can view the fellows' work at [this repository](https://github.com/GDS-Education-Community-of-Practice/DSECOP). 
