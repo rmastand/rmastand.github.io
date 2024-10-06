@@ -24,13 +24,3 @@ If you would like to use either of my modules in your course, or if you have any
 I am working on a series of interactive jupyter / google colab notebooks to teach interesting phenomena in physics at the upper high school / lower undergraduate level. My goal is that each notebook takes no longer than an hour (ideally half of that) to go through.
 
 - [The Hot Chocolate Effect](https://colab.research.google.com/drive/1LyZ6br5LUvOVFqZIbYjQr7v5XIx98w5a?usp=sharing). This was my entry to the [3Blue1Brown Summer of Math 2022 Competition](https://www.3blue1brown.com/blog/some2), and it was selected as one of the top 100 entries!
-
-## Databases of consumables
-
-I am a big fan of objectively ranking consumables. 
-
-- [Ritter Sport flavors](https://spiced-belief-ae1.notion.site/0952ab97637248fea27d131c56eec6f9?v=338ccef6434f4337a18e15843ae2e2c6&pvs=74). This database was created over a 6-month research trip in Germany. I know that the list is not complete and that there are very niche flavors that I could nto find (even after a trip to the Waldenbuch factory!). I will pay very good money to anyone who can get me a flavor *not* listed.
-
-- [Cafes in Berkeley](https://spiced-belief-ae1.notion.site/Cafe-Database-IN-PROGRESS-24597b37fec9425cb04a693c8f606393). A growing database of all the coffee shops in the Berkeley area.
-
-
