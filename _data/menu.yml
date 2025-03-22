@@ -10,12 +10,7 @@ entries:
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
   - title: Publications and Preprints
-    page_list:
-      category: pubs
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: pubs.html
-
+    url: pubs
   
   - title: another list
     entries:
