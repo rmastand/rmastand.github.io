@@ -11,6 +11,10 @@ entries:
 
   - title: Publications and Preprints
     url: pubs
+  - title: Conference Talks
+    url: confs
+  - title: Miscellaneous
+    url: misc
   
   - title: another list
     entries:
