@@ -1,7 +1,7 @@
 {%-if include.category-%}
   {%-assign pages = site.categories[include.category]-%}  
 {%-else-%}
-  {%-assign pages = pages%}
+  {%-assign pages = site.pages%}
 {%-endif-%}
 
 {%-if include.limit and pages.size > include.limit-%}
