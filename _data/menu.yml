@@ -14,13 +14,6 @@ entries:
   - title: Conference Talks
     url: confs
   - title: Miscellaneous
-    url: misc
-  
-  - title: another list
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
- 
+      - title: Great spoons
+        url: spoons
