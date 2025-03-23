@@ -1,6 +1,5 @@
 ---
-layout: archive
-which_category: pubs
+layout: page
 title: Publications and Preprints
 ---
 
