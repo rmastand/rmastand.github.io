@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-This is an example page!
+I am a fourth-year graduate student in Physics with a Designated Emphasis in Computational and Data Science and Engineering at UC Berkeley. My research focuses on developing model-agnostic searches for new physics (though I am partial to searches in particle collision data) using machine learning tools. 
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+As a [data physicist](https://physicalsciences.lbl.gov/2023/10/13/the-rise-of-the-data-physicist/), I am excited to be a proponent of interdisciplinary research and create a welcoming community for other data physicists!
