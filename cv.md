@@ -1,8 +1,6 @@
 ---
 layout: page
-title: About
+title: CV
 ---
 
-This is an example page!
-
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+Coming soon...
