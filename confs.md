@@ -28,7 +28,7 @@ title: Conference Talks
 
 
 *HEPSim2Real: Creating background templates with normalizing flows*\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ML4Jets, Rutgers University, Npv. 2022\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ML4Jets, Rutgers University, Nov. 2022\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://indico.cern.ch/event/1159913/contributions/5062723/attachments/2540437/4373204/ML4Jets%20(3).pdf)
 
 *Using symmetries to build better latent spaces for dijet representation learning*\
