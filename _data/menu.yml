@@ -15,3 +15,7 @@ entries:
       - title: Great spoons
         url: spoons
       - title: Lists of consumables
+        entries:
+          - title: rrr
+            url: https://spiced-belief-ae1.notion.site/0952ab97637248fea27d131c56eec6f9?v=338ccef6434f4337a18e15843ae2e2c6&pvs=74
+      
