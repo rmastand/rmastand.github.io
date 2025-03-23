@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: Archive
+layout: page
+title: Very small spoons
 ---
 
 ### Museo Correr Cafe, Venice
