@@ -9,7 +9,7 @@ In 2022, I was a [APS DSECOP Fellow](https://dsecop.org/), which is associated
 I worked on two modules:
 
 1. [Introduction to Data Processing with Histograms](https://github.com/GDS-Education-Community-of-Practice/DSECOP/tree/main/Intro_to_Data_Processing_with_Histograms) covers basics topics such as creating histograms, curve fitting the distributions, and evaluating the goodness-of-fit.
-2. [Exploratory Data Analysis]{https://github.com/GDS-Education-Community-of-Practice/DSECOP/tree/main/Exploratory_Data_Analysis} goes through the often-neglected process of quickly getting acquainted with an unfamiliar dataset in order to guide future analyses.
+2. [Exploratory Data Analysis](https://github.com/GDS-Education-Community-of-Practice/DSECOP/tree/main/Exploratory_Data_Analysis) goes through the often-neglected process of quickly getting acquainted with an unfamiliar dataset in order to guide future analyses.
 If you would like to use either of my modules in your course, or if you have any suggestions about improvements or additions to the module, please don’t hesitate to contact me!
 
 ## Interactive notebooks explaining physics phenomena
