@@ -2,18 +2,20 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
-    entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-
+  - title: rmastand at berkeley . edu
+  - title: About
+    url: about
   - title: Publications and Preprints
     url: pubs
   - title: Conference Talks
     url: confs
+  - title: CV
+    url: cv
   - title: Miscellaneous
     entries:
       - title: Great spoons
         url: spoons
+      - title: Lists of consumables
+        entries:
+          - title: [Ritter Sport flavors.](https://spiced-belief-ae1.notion.site/0952ab97637248fea27d131c56eec6f9?v=338ccef6434f4337a18e15843ae2e2c6) This database was created over a 6-month time period that I spent visiting the ML ITP Heidelberg group. I know that the list is not complete and that there are very niche flavors that I could not find (even after a trip to the Waldenbuch factory!). I will pay *very good money* to anyone who can get me a flavor not listed.
+          - [Berkeley Cafes.](https://spiced-belief-ae1.notion.site/Berkeley-Cafes-IN-PROGRESS-24597b37fec9425cb04a693c8f606393) A growing database of all the coffee shops in the Berkeley area. It is still growing, but I hope to be done with it by May 2025.
