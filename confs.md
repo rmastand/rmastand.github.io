@@ -33,12 +33,12 @@ title: Conference Talks
 
 *Using symmetries to build better latent spaces for dijet representation learning*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;APS April Meeting, New York Apr. 2022\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://drive.google.com/drive/u/0/folders/1kSE7UF-rdnZ1cfaQdR1DRkSri-Tw37Zt)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://drive.google.com/file/d/1qJkzm1X7ONVkqRtiZpbnfq-QnrpCoyWz/view?usp=sharing)
 
 
 *Exploring the Parity of the Quark-Sector SME with Madgraph*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fourth Summer School on the Lorentz- and CPT-violating Standard-Model Extension, ICUSS, May 2021\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://drive.google.com/drive/u/0/folders/1kSE7UF-rdnZ1cfaQdR1DRkSri-Tw37Zt)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Slides](https://drive.google.com/file/d/1mVueH1vMabCt1HNCbhIVaxzDf-0RkQj1/view?usp=sharing)
 
 
 *Analyzing CMS Open Collider Data through Topic Modeling*\
