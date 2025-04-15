@@ -2,31 +2,10 @@
 ---
 
 
-.background {
-  height: 500px;
-  width: 500px;
-  position: relative;
-  z-index:0;
-  display: inline-block;
-  overflow:hidden; /* hide the overflow here not on the pseudo element */
-  padding: 100px;
-  border: black 3px solid;
-}
 
-.background::before {
-  content: "";
-  position: absolute;
-  z-index: -1;
-  /* 141% ~ sqrt(2)x100% to make sure to cover all the area after the rotation */
-  width: 141%;
-  height:141%;
-  /**/
-  /* to center*/
-  left: 50%;
-  top: 50%;
-  /* */
-  background: url("/images/bkg_image.png");
-  background-size: 100px 100px; /* size of the image*/
-  transform:translate(-50%,-50%) rotate(45deg); /* center the element then rotate */
-  opacity: 0.5;
+body {
+    background-image: url('/images/bkg_image.png');
+    background-position: center center;
+    background-repeat: repeat;
+    background-size: 4em;
 }
