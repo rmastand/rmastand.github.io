@@ -20,18 +20,8 @@ body::before {
     background-position: center center;
     background-repeat: repeat;
     background-size: 4em;
-    transform: translate(-50%, -50%) rotate(0deg);
+    transform: translate(-50%, -50%) rotate(-45deg); /* Static -45 degree rotation */
     transform-origin: center;
     z-index: -1;
     pointer-events: none;
-    animation: rotateBackground 60s linear infinite;
-}
-
-@keyframes rotateBackground {
-    from {
-        transform: translate(-50%, -50%) rotate(0deg);
-    }
-    to {
-        transform: translate(-50%, -50%) rotate(360deg);
-    }
 }
