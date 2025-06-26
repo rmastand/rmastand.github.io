@@ -3,6 +3,17 @@ layout: page
 title: Very small spoons
 ---
 
+
+### Birch Coffee, NYC
+<img src="/images/birch.png" alt="drawing" style="width:200px;"/>
+
+### Bocca Cucina and Bar, NYC
+<img src="/images/bocca.png" alt="drawing" style="width:200px;"/>
+
+### Whitney Museum, NYC
+<img src="/images/whitney.png" alt="drawing" style="width:200px;"/>
+
+
 ### Museo Correr Cafe, Venice
 <img src="/images/correr.png" alt="drawing" style="width:200px;"/>
 
