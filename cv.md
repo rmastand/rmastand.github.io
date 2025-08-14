@@ -3,4 +3,6 @@ layout: page
 title: CV
 ---
 
-Coming soon...
+Last updated August 2025
+
+<embed src="/asssets/Mastandrea_CV" type="application/pdf" width="600px" height="800px" />
