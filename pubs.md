@@ -5,7 +5,7 @@ title: Publications and Preprints
 
 
 [13] *IGenerator Based Inference (GBI)*\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chi Lung Cheng, Ranit Das, Runze Li, **RM**, Vinicius Mikuni), Benjamin Nachman, David Shih, Gup Singh\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chi Lung Cheng, Ranit Das, Runze Li, **RM**, Vinicius Mikuni, Benjamin Nachman, David Shih, Gup Singh\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arXiv: [hep-ph/2506.00119](https://arxiv.org/abs/2506.00119)
 
 
