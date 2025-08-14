@@ -3,6 +3,10 @@ layout: page
 title: Very small spoons
 ---
 
+### Ninth Street Espresso, NYC
+<img src="/images/ninth.jpg" alt="drawing" style="width:200px;"/>
+
+
 
 ### Birch Coffee, NYC
 <img src="/images/birch.png" alt="drawing" style="width:200px;"/>
@@ -11,7 +15,7 @@ title: Very small spoons
 <img src="/images/bocca.png" alt="drawing" style="width:200px;"/>
 
 ### Whitney Museum, NYC
-<img src="/images/whitney.png" alt="drawing" style="width:200px;"/>
+<img src="/images/whitney.jpg" alt="drawing" style="width:200px;"/>
 
 
 ### Museo Correr Cafe, Venice
