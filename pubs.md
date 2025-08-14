@@ -4,10 +4,21 @@ title: Publications and Preprints
 ---
 
 
+[13] *IGenerator Based Inference (GBI)*\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chi Lung Cheng, Ranit Das, Runze Li, **RM**, Vinicius Mikuni), Benjamin Nachman, David Shih, Gup Singh\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arXiv: [hep-ph/2506.00119](https://arxiv.org/abs/2506.00119)
+
+
+   
+ <!-- -->
+
+
+ 
 [12] *Isolating Unisolated Upsilons with Anomaly Detection in CMS Open Data*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rikab Gambhir, **RM**, Benjamin Nachman, Jesse Thaler\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arXiv: [hep-ph/2502.14036](https://arxiv.org/abs/2502.14036)
-    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Journal: [Phys. Rev. Letters 135, 021902 (2025)]([https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.056004](https://journals.aps.org/prl/abstract/10.1103/vvv3-5kkl))
+
    
  <!-- -->
  
