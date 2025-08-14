@@ -16,8 +16,8 @@ title: Publications and Preprints
  
 [12] *Isolating Unisolated Upsilons with Anomaly Detection in CMS Open Data*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rikab Gambhir, **RM**, Benjamin Nachman, Jesse Thaler\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arXiv: [hep-ph/2502.14036](https://arxiv.org/abs/2502.14036)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Journal: [Phys. Rev. Letters 135, 021902 (2025)]([https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.056004](https://journals.aps.org/prl/abstract/10.1103/vvv3-5kkl))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arXiv: [hep-ph/2502.14036](https://arxiv.org/abs/2502.14036)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Journal: [Phys. Rev. Letters 135, 021902 (2025)](https://journals.aps.org/prl/abstract/10.1103/vvv3-5kkl)
 
    
  <!-- -->
