@@ -5,8 +5,8 @@ title: Conference Talks
 
 *Isolating Unisolated Upsilons with Anomaly Detection in CMS Open Data*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ML4Jets, Caltech, Aug. 2025\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AD4HEP, Columbia University, Nevis Laboratories, June 2025
-    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AD4HEP, Columbia University, Nevis Laboratories, June 2025\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Slides (ML4Jets)](https://indico.cern.ch/event/1526677/contributions/6549546/attachments/3120768/5533989/ML4Jets%202025.pdf)
   
 *Constraining the Higgs Potential Shape with Machine Learning*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ML4Jets, LPNHE, Nov. 2024\
