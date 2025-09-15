@@ -9,4 +9,4 @@ As a [data physicist](https://physicalsciences.lbl.gov/2023/10/13/the-rise-of-th
 
 A(n almost) complete list of my papers can be found at my [Inspire HEP](https://inspirehep.net/authors/2150193?ui-citation-summary=true). The code from all my papers can be found at my [GitHub](https://github.com/rmastand?tab=repositories).
 
-You can contact me at rmastand at berkeley dot edu
+You can contact me at rmastand at uchicago dot edu
