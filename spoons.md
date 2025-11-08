@@ -3,10 +3,11 @@ layout: page
 title: Very small spoons
 ---
 
+### Intelligentsia, Chicago
+<img src="/images/intelligentsia.png" alt="drawing" style="width:200px;"/>
+
 ### Ninth Street Espresso, NYC
 <img src="/images/ninth.jpg" alt="drawing" style="width:200px;"/>
-
-
 
 ### Birch Coffee, NYC
 <img src="/images/birch.png" alt="drawing" style="width:200px;"/>
