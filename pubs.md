@@ -3,6 +3,23 @@ layout: page
 title: Publications and Preprints
 ---
 
+[15] *Kitchen Sink Anomaly Detection*\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ranit Das, Marie Hein, Gregor Kasieczka, Michael Krämer, Lukas Lang, **RM**, Louis Moureaux, Alexander Mück, David Shih\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arXiv: [hep-ph/2604.20965](https://arxiv.org/abs/2604.20965)
+
+
+   
+ <!-- -->
+
+
+[14] *Resummed Distribution Functions: Making Perturbation Theory Positive and Normalized*\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rikab Gambhir, **RM**\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arXiv: [hep-ph/2512.04160](https://arxiv.org/abs/2512.04160)
+
+
+   
+ <!-- -->
+
 
 [13] *Generator Based Inference (GBI)*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chi Lung Cheng, Ranit Das, Runze Li, **RM**, Vinicius Mikuni, Benjamin Nachman, David Shih, Gup Singh\
