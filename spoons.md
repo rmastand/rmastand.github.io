@@ -3,6 +3,9 @@ layout: page
 title: Very small spoons
 ---
 
+### Alchemist Coffee, Tokyo
+<img src="/images/alchemist" alt="drawing" style="width:200px;"/>
+
 ### Intelligentsia, Chicago
 <img src="/images/intelligentsia.png" alt="drawing" style="width:200px;"/>
 
