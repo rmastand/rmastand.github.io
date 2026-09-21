@@ -3,6 +3,9 @@ layout: page
 title: Very small spoons
 ---
 
+### Coffee and Beard, Vienna
+<img src="/images/beard_1.png" alt="drawing" style="width:200px;"/> <img src="/images/beard_2.png" alt="drawing" style="width:200px;"/>
+
 ### Alchemist Coffee, Tokyo
 <img src="/images/alchemist.png" alt="drawing" style="width:200px;"/>
 
