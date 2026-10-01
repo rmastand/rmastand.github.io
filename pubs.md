@@ -3,6 +3,17 @@ layout: page
 title: Publications and Preprints
 ---
 
+
+
+[16] *Fast BIB simulation at a future Muon Collider with generative machine learning*\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**RM**, Shiyu Peng, Benjamin Rosser, Matt LeBlanc\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arXiv: [physics.ins-det/2609.12054](https://arxiv.org/abs/2609.12054)
+
+
+ <!-- -->
+
+
+
 [15] *Kitchen Sink Anomaly Detection*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ranit Das, Marie Hein, Gregor Kasieczka, Michael Krämer, Lukas Lang, **RM**, Louis Moureaux, Alexander Mück, David Shih\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arXiv: [hep-ph/2604.20965](https://arxiv.org/abs/2604.20965)
@@ -15,6 +26,8 @@ title: Publications and Preprints
 [14] *Resummed Distribution Functions: Making Perturbation Theory Positive and Normalized*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rikab Gambhir, **RM**\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arXiv: [hep-ph/2512.04160](https://arxiv.org/abs/2512.04160)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Journal: [JHEP Volume 2026, article number 243 (2026)](https://link.springer.com/article/10.1007/JHEP06(2026)243)
+
 
 
    
