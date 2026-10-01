@@ -12,8 +12,8 @@ title: Conference Talks
 
 *Resummed Distribution Functions: making perturbation theory positive and normalized*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ML4Jets](https://indico.global/event/15240/contributions/165312/attachments/76115/147718/ML4Jets%2009_2026%20(1).pdf), Hörsaalzentrum University of Vienna, Sep. 2026\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[BOOST Physics workshop](https://indico.cern.ch/event/1574970/contributions/7093522/attachments/3315074/5933751/BOOST%2007_2026.pdf), Jagiellonian Universi, Jul. 2026\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[11th LCTP Spring Symposium: Theoretical Physics and AI](https://indico.global/event/16426/contributions/153404/attachments/70449/136781/LITP%2005_2026.pdf), University of MichiganMay 2026
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[BOOST Physics workshop](https://indico.cern.ch/event/1574970/contributions/7093522/attachments/3315074/5933751/BOOST%2007_2026.pdf), Jagiellonian University, Jul. 2026\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[11th LCTP Spring Symposium: Theoretical Physics and AI](https://indico.global/event/16426/contributions/153404/attachments/70449/136781/LITP%2005_2026.pdf), University of Michigan, May 2026
 
 
 *Isolating Unisolated Upsilons with Anomaly Detection in CMS Open Data*\
@@ -22,7 +22,7 @@ title: Conference Talks
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AD4HEP, Columbia University, Nevis Laboratories, June 2025
   
 *Constraining the Higgs Potential Shape with Machine Learning*\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Cincinnati HEP / Astrophysics Seminar, University of Cincinnat, Nov. 2025\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Cincinnati HEP / Astrophysics Seminar, University of Cincinnati, Nov. 2025\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rutgers NHETC Seminar, Rutgers University, Dec. 2024\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ATLAS ML Forum, CERN, Nov. 2024\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CERN Theory ML Forum, CERN, Nov. 2024\
@@ -64,5 +64,5 @@ title: Conference Talks
 
 
 *Analyzing CMS Open Collider Data through Topic Modeling*\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[BOOST Physics Workshop](https://indico.cern.ch/event/753914/contributions/3444467/attachments/1885732/3108561/Mastandrea_BOOST_2019.pdf), MIT Jul. 2019
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[BOOST Physics Workshop](https://indico.cern.ch/event/753914/contributions/3444467/attachments/1885732/3108561/Mastandrea_BOOST_2019.pdf), MIT, Jul. 2019
 
