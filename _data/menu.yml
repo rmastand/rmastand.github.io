@@ -2,6 +2,8 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+  - title: Please fill out this survey!
+    url: https://docs.google.com/forms/d/e/1FAIpQLScS-ttQ9cmY3c9y7_kuSOO7wApYqg4GeZuTkSrX6YFB9hejCw/viewform
   - title: About
     url: about
   - title: Publications and Preprints
