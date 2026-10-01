@@ -25,7 +25,7 @@ title: Publications and Preprints
 
 [14] *Resummed Distribution Functions: Making Perturbation Theory Positive and Normalized*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rikab Gambhir, **RM**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arXiv: [hep-ph/2512.04160](https://arxiv.org/abs/2512.04160)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arXiv: [hep-ph/2512.04160](https://arxiv.org/abs/2512.04160)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Journal: [JHEP Volume 2026, article number 243 (2026)](https://link.springer.com/article/10.1007/JHEP06(2026)243)
 
 
